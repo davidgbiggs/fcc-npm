@@ -6,6 +6,7 @@
   "author": "David Biggs",
   "description": "Free Code Camp npm challenge repo",
   "main": "server.js",
+  "keywords": ["freecodecamp", "learning", "npm"],
   "scripts": {
     "start": "node server.js"
   },
