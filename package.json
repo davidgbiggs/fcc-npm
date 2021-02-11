@@ -4,6 +4,7 @@
     "express": "^4.14.0"
   },
   "author": "David Biggs",
+  "description": "Free Code Camp npm challenge repo",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
