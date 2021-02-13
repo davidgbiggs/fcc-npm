@@ -6,7 +6,12 @@
   "author": "David Biggs",
   "description": "Free Code Camp npm challenge repo",
   "main": "server.js",
-  "keywords": ["freecodecamp", "learning", "npm"],
+  "keywords": [
+    "freecodecamp",
+    "learning",
+    "npm"
+  ],
+  "license": "MIT",
   "scripts": {
     "start": "node server.js"
   },
