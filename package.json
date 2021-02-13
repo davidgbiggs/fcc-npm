@@ -11,6 +11,7 @@
     "learning",
     "npm"
   ],
+  "version": "1.0",
   "license": "MIT",
   "scripts": {
     "start": "node server.js"
